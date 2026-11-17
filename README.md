@@ -1,82 +1,141 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080d18,50:123b68,100:38d9ff&height=200&section=header&text=BORZ&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20BUILDER&descSize=16&descAlignY=55" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102a56,100:00d9ff&height=230&section=header&text=BORZ&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20LINE%20AT%20A%20TIME&descSize=14&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Borz+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%92%BB;Learning.+Building.+Improving.+%E2%9A%A1;Welcome+to+my+digital+world." />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Borz;Junior+Web+Developer;Development+Digital+Student;Learning.+Building.+Evolving." alt="Typing SVG" />
+</p>
 
-<br/>
+<p>
+  <a href="https://github.com/aminoxaminox444-art">
+    <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  </a>
+  <a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" />
+  </a>
+  <a href="https://gitlab.com/amine-dev2">
+    <img src="https://img.shields.io/badge/GITLAB-050816?style=for-the-badge&logo=gitlab&logoColor=orange" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-080d18?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminoxaminox444-art)
-[![Portfolio](https://img.shields.io/badge/Portfolio-080d18?style=for-the-badge&logo=googlechrome&logoColor=38d9ff)](https://github.com/aminoxaminox444-art/amine-borz-portfolio)
+<img src="https://komarev.com/ghpvc/?username=aminoxaminox444-art&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `01` — WHO AM I?
 
 ```python
-class Borz:
+class Developer:
     def __init__(self):
         self.name = "Borz"
-        self.role = "Junior Developer"
-        self.country = "Morocco 🇲🇦"
-        self.learning = [
-            "HTML", "CSS", "JavaScript",
-            "Python", "PHP", "SQL"
+        self.role = "Junior Web Developer"
+        self.education = "Développement Digital"
+        self.location = "Morocco 🇲🇦"
+        self.interests = [
+            "Web Development",
+            "Backend Development",
+            "Technology",
+            "Problem Solving"
         ]
-        self.goal = "Become a Professional Developer"
 
     def motto(self):
-        return "Code. Learn. Build. Repeat."
+        return "Dream. Code. Create. Repeat."
 
-me = Borz()
+
+me = Developer()
 ```
 
-## `> about_me`
+I'm a Développement Digital student passionate about technology, programming and creating things for the web.
 
-- 🎓 Développement Digital Student.
-- 💻 Interested in Web Development.
-- 🌱 Currently improving my programming skills.
-- ⚡ Building projects and learning new technologies.
-- 🚀 Focused on becoming a better developer.
+Currently learning, improving my skills and building projects one step at a time.
 
-## `> tech_stack`
+---
+
+## `02` — TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,php,mysql,git,github,vscode&theme=dark" />
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=python,php,mysql&theme=dark" />
+
+**TOOLS & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode&theme=dark" />
 
 </div>
 
-## `> github_statistics`
+---
+
+## `03` — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio built with HTML and CSS.
+
+**Technologies:** HTML · CSS
+
+<a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">VIEW PROJECT →</a>
+
+</td>
+<td width="50%">
+
+### ⚡ Git Learning Project
+
+A practical project created to learn Git and GitLab workflows.
+
+**Technologies:** Git · GitLab
+
+<a href="https://gitlab.com/amine-dev2/test-git">VIEW PROJECT →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aminoxaminox444-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=38d9ff&icon_color=58a6ff"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=aminoxaminox444-art&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoxaminox444-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=38d9ff"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoxaminox444-art&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
 
-<img src="https://streak-stats.demolab.com?user=aminoxaminox444-art&theme=tokyonight&hide_border=true&background=080d18&ring=38d9ff&fire=58a6ff" width="70%"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=aminoxaminox444-art&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
-## `> featured_projects`
+---
 
-| Project | Description |
-|---|---|
-| [Portfolio](https://github.com/aminoxaminox444-art/amine-borz-portfolio) | Personal Developer Portfolio |
-| [Git Learning](https://github.com/aminoxaminox444-art/test-git) | Git & GitLab Practice |
+## `05` — CURRENT MISSION
 
-## `> connect_with_me`
+- [x] Start my journey in Web Development
+- [x] Build my personal portfolio
+- [x] Learn Git and GitLab
+- [ ] Improve my Python skills
+- [ ] Build more real-world projects
+- [ ] Become a professional developer
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Borz-080d18?style=for-the-badge&logo=github)](https://github.com/aminoxaminox444-art)
+### LET'S BUILD SOMETHING AMAZING.
 
-**Building my future, one line of code at a time.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit!" alt="Footer animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38d9ff,50:123b68,100:080d18&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:102a56,100:050816&height=120&section=footer" />
 
 </div>
