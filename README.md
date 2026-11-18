@@ -3,15 +3,21 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=FF1744&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;ACCESS+GRANTED;HELLO%2C+I'M+BORZ;WELCOME+TO+MY+DIGITAL+WORLD" />
 
-<img src="https://img.shields.io/badge/USER-BORZ-FF1744?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-111111?style=for-the-badge&logo=linux&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF1744?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/USER-BORZ-111111?style=for-the-badge&logo=github&logoColor=FF1744" />
 <img src="https://img.shields.io/badge/LOCATION-MOROCCO-111111?style=for-the-badge&logo=googlemaps&logoColor=FF1744" />
 
 </div>
 
 ---
 
-## `root@borz:~$ whoami`
+## 🕷️ `root@borz:~$ whoami`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="260" alt="Spider-Man animation"/>
+
+</div>
 
 ```bash
 ┌──(borz㉿kali)-[~]
@@ -21,24 +27,26 @@ NAME        : AMINE BORZ
 USERNAME    : BORZ
 ROLE        : JUNIOR WEB DEVELOPER
 EDUCATION   : DEVELOPMENT DIGITAL STUDENT
-LOCATION    : MOROCCO
-STATUS      : LEARNING & BUILDING
-MISSION     : CREATE. CODE. IMPROVE.
+LOCATION    : MOROCCO 🇲🇦
+STATUS      : ONLINE
+MISSION     : BUILDING MY DIGITAL WORLD
 ```
 
 ## `root@borz:~$ cat about.txt`
 
 ```text
-[+] Welcome to my digital world.
+[+] Hello, I'm Amine Borz.
 
-    I'm Amine Borz, a Development Digital student
-    interested in Web Development.
+[+] Development Digital student from Morocco.
 
-[+] Currently learning:
-    HTML / CSS / JavaScript / PHP / MySQL
+[+] Interested in Web Development and Programming.
 
-[+] My goal:
-    Build useful projects and become a better developer.
+[+] Learning, building and improving every day.
+
+[+] My philosophy:
+    THINK LIKE A DEVELOPER.
+    BUILD LIKE A CREATOR.
+    NEVER STOP LEARNING.
 ```
 
 ## `root@borz:~$ ls skills/`
@@ -51,10 +59,17 @@ MISSION     : CREATE. CODE. IMPROVE.
 
 ## `root@borz:~$ ls projects/`
 
-| PROJECT | DESCRIPTION |
-|---|---|
-| [Personal Portfolio](https://github.com/aminoxaminox444-art/amine-borz-portfolio) | My developer portfolio |
-| [Git Learning](https://gitlab.com/amine-dev2/test-git) | Learning Git and GitLab |
+<div align="center">
+
+<a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">
+<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-111111?style=for-the-badge&logo=github&logoColor=FF1744"/>
+</a>
+
+<a href="https://gitlab.com/amine-dev2/test-git">
+<img src="https://img.shields.io/badge/GIT_LEARNING_PROJECT-111111?style=for-the-badge&logo=gitlab&logoColor=FF1744"/>
+</a>
+
+</div>
 
 ## `root@borz:~$ github --stats`
 
@@ -74,31 +89,42 @@ MISSION     : CREATE. CODE. IMPROVE.
 
 </div>
 
+## `root@borz:~$ git status`
+
+```bash
+[+] Learning new technologies
+[+] Developing personal projects
+[+] Improving coding skills
+[+] Building my developer portfolio
+
+STATUS: WORK IN PROGRESS...
+```
+
 ## `root@borz:~$ connect`
 
 <div align="center">
 
 <a href="https://github.com/aminoxaminox444-art">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF1744"/>
 </a>
 
 <a href="https://gitlab.com/amine-dev2">
-<img src="https://img.shields.io/badge/GITLAB-111111?style=for-the-badge&logo=gitlab&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/GITLAB-111111?style=for-the-badge&logo=gitlab&logoColor=FF1744"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=aminoxaminox444-art&style=for-the-badge&color=FF1744&label=PROFILE+VISITORS"/>
 
-<div align="center">
+<br/><br/>
 
 ```bash
 ┌──(borz㉿kali)-[~]
 └─$ echo "THE NEXT LEVEL IS LOADING..."
 ```
 
-**「 GREAT THINGS ARE BUILT ONE LINE AT A TIME 」**
+**CODE THE FUTURE. BUILD YOUR OWN WORLD.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4A0010,100:FF1744&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4A0010,100:FF1744&height=130&section=footer"/>
 
 </div>
