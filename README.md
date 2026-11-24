@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:300000,100:8B0000&text=BORZ&fontColor=FF1A1A&fontSize=75&fontAlignY=38&desc=DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20DIGITAL%20CREATOR&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:300000,100:8B0000&text=BORZ&fontColor=FF1A1A&fontSize=70&fontAlignY=38&desc=DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20DIGITAL%20CREATOR&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+BORZ+UNIVERSE;DIGITAL+DEVELOPMENT+STUDENT;WEB+DEVELOPER+IN+PROGRESS;CYBERSECURITY+ENTHUSIAST" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+BORZ+UNIVERSE;DIGITAL+DEVELOPMENT+STUDENT;WEB+DEVELOPER+IN+PROGRESS;CYBERSECURITY+ENTHUSIAST"/>
 
 <br/>
 
@@ -13,66 +13,39 @@
 
 ---
 
-## 🩸 01 — THE DEVELOPER BEHIND BORZ
+## 🩸 01 — ABOUT THE DEVELOPER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:300000,50:FF0000,100:300000" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050505,50:300000,100:8B0000&text=AMINE%20BORZ&fontColor=FF3333&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=IDENTITY+VERIFIED;AMINE+BORZ;DEVELOPER+IN+PROGRESS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=THE+MIND+BEHIND+BORZ;DIGITAL+DEVELOPER;CYBERSECURITY+ENTHUSIAST"/>
 
-<table>
-<tr>
-<td align="center" width="50%">
+</div>
 
-### 👤 IDENTITY
+### 🥀 WHO AM I?
 
-**AMINE BORZ**
+I'm **Amine Borz**, a Digital Development student from Morocco 🇲🇦.
 
-🇲🇦 Morocco
+I enjoy building websites, exploring programming, and discovering the world of cybersecurity.
 
-</td>
-<td align="center" width="50%">
+### ⚡ MY WORLD
 
-### 💻 PROFESSION
+- 💻 Web Development
+- 🐍 Python Programming
+- 🔐 Cybersecurity & Ethical Hacking
+- 🐧 Linux & Command Line
+- 🚀 Building creative projects
 
-**DIGITAL DEVELOPMENT**
+### 🧠 MY MINDSET
 
-Student & Developer
+> "Think different. Code smarter. Never stop evolving."
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<div align="center">
 
-### 🔐 MAIN INTEREST
-
-Cybersecurity
-
-</td>
-<td align="center">
-
-### ⚡ SPECIALIZATION
-
-Web Development
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-000000?style=for-the-badge&logo=python&logoColor=FF3333"/>
-<img src="https://img.shields.io/badge/WEB_DEV-BUILDING-000000?style=for-the-badge&logo=html5&logoColor=FF3333"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-EXPLORING-000000?style=for-the-badge&logo=kalilinux&logoColor=FF3333"/>
-
-<br/><br/>
-
-**「 LEARN • BUILD • BREAK • IMPROVE 」**
-
-<sub>Not here to be perfect. Here to become better.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:300000,50:FF0000,100:300000" width="85%"/>
+<img src="https://img.shields.io/badge/IDENTITY-BORZ-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
+<img src="https://img.shields.io/badge/COUNTRY-MOROCCO-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
+<img src="https://img.shields.io/badge/STATUS-LEVELING_UP-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
 
 </div>
 
@@ -158,7 +131,7 @@ Web Development
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=MASTER+WEB+DEVELOPMENT;LEARN+PYTHON;EXPLORE+CYBERSECURITY;BUILD+REAL+PROJECTS;NEVER+STOP+LEARNING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=MASTER+WEB+DEVELOPMENT;LEARN+PYTHON;EXPLORE+CYBERSECURITY;BUILD+REAL+PROJECTS;NEVER+STOP+LEARNING"/>
 
 </div>
 
@@ -177,7 +150,7 @@ Web Development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:300000,50:FF0000,100:300000" width="85%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=ENTER+THE+BORZ+NETWORK;CONNECTION+ESTABLISHED;READY+TO+COLLABORATE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=ENTER+THE+BORZ+NETWORK;CONNECTION+ESTABLISHED;READY+TO+COLLABORATE"/>
 
 <br/><br/>
 
