@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:300000,100:8B0000&text=BORZ&fontColor=FF1A1A&fontSize=70&fontAlignY=38&desc=DEVELOPER%20%7C%20CYBER%20SECURITY&descAlignY=60&animation=fadeIn" width="100%" />
@@ -105,7 +106,21 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="BORZ GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
