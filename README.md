@@ -1,133 +1,147 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,50:101B3D,100:5427A8&text=BORZ&fontColor=FFFFFF&fontSize=90&fontAlignY=45&stroke=38D9FF&strokeWidth=2&animation=fadeIn&desc=DEVELOPER%20IN%20PROGRESS&descAlignY=65&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:300000,100:8B0000&text=BORZ&fontColor=FF1A1A&fontSize=70&fontAlignY=38&desc=DEVELOPER%20%7C%20CYBER%20SECURITY&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=38D9FF&center=true&vCenter=true&width=700&lines=AMINE+BORZ;DEVELOPPEMENT+DIGITAL+STUDENT;JUNIOR+WEB+DEVELOPER;BUILDING.+LEARNING.+EVOLVING." />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=38D9FF)](https://github.com/aminoxaminox444-art)
-[![GitLab](https://img.shields.io/badge/GitLab-050816?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/amine-dev2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=38D9FF)](https://github.com/aminoxaminox444-art/amine-borz-portfolio)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Welcome+to+my+Cyber+World;Developer+in+Progress;Learning+Cybersecurity;Code.+Learn.+Evolve." />
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+<div align="center">
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://media.tenor.com/0p3gXj9wY0AAAAAC/itachi.gif" width="230" />
 
-```yaml
-name: Amine Borz
-location: Morocco 🇲🇦
-role: Développement Digital Student
-focus: Web Development
-currently: Learning & Building
-mindset: Never Stop Improving
+### `SYSTEM ONLINE — BORZ`
+
+> *"Knowledge is power. Discipline is everything."*
+
+</div>
+
+---
+
+## 🩸 01 — ABOUT ME
+
+```bash
+┌──(borz㉿developer)-[~/profile]
+└─$ whoami
 ```
 
-I'm a Développement Digital student interested in building modern websites and applications.
+- 👤 **Name:** Amine Borz
+- 🌍 **Location:** Morocco 🇲🇦
+- 💻 **Role:** Digital Development Student
+- 🔐 **Interest:** Cybersecurity & Development
+- ⚡ **Focus:** Web Development | Python | Security
+- 🎯 **Status:** Learning, Building & Improving
 
-I enjoy exploring new technologies, solving problems, and turning ideas into real projects.
-
-**My philosophy:** Learn something new. Build something better. Repeat.
-
-<br clear="right"/>
+```bash
+[+] Building projects
+[+] Learning new technologies
+[+] Exploring cybersecurity
+[+] Improving every day
+```
 
 ---
 
-## `02` — TECH UNIVERSE
+## ⚔️ 02 — TECH UNIVERSE
 
 <div align="center">
 
-### FRONTEND DEVELOPMENT
+### 💻 DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 
-### BACKEND & DATABASE
+### 🗄️ DATABASE
 
-<img src="https://skillicons.dev/icons?i=php,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### TOOLS & ENVIRONMENT
+### ⚙️ TOOLS & ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
 
 </div>
 
-**Other technologies and concepts**
-
-`SQL` `JSON` `CSV` `XAMPP` `phpMyAdmin` `VirtualBox` `Kali Linux` `Linux Terminal`
-
-`Algorithmique` `POO` `HTML Forms` `Functions & Procedures` `PHP Sessions` `PDO` `UML` `Database Modeling`
-
 ---
 
-## `03` — FEATURED PROJECTS
+## 🔥 03 — PROJECTS
 
 <div align="center">
-
-<a href="https://github.com/aminoxaminox444-art/car-rental">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=car-rental&theme=tokyonight&hide_border=true" />
-</a>
 
 <a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=amine-borz-portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=amine-borz-portfolio&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333" />
+</a>
+
+<a href="https://github.com/aminoxaminox444-art/car-rental">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=car-rental&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333" />
 </a>
 
 </div>
 
+---
+
+## 📊 04 — GITHUB STATISTICS
+
 <div align="center">
 
-**GIT LEARNING PROJECT**
+<img src="https://github-readme-stats.vercel.app/api?username=aminoxaminox444-art&show_icons=true&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=CCCCCC&bg_color=000000" width="48%" />
 
-[![GitLab Project](https://img.shields.io/badge/GitLab-Test--Git-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/amine-dev2/test-git)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoxaminox444-art&layout=compact&theme=dark&hide_border=true&title_color=FF3333&bg_color=000000" width="48%" />
 
 </div>
 
 ---
 
-## `04` — GITHUB STATISTICS
+## 📈 05 — ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminoxaminox444-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38D9FF&icon_color=8B5CF6&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoxaminox444-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38D9FF&text_color=FFFFFF" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=aminoxaminox444-art&theme=tokyonight&hide_border=true&background=050816&ring=38D9FF&fire=8B5CF6&currStreakLabel=38D9FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminoxaminox444-art&bg_color=000000&color=FF3333&line=8B0000&point=FF0000&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## `05` — 3D CONTRIBUTION WORLD
+## 🐍 06 — CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
+<img src="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-## `06` — CONNECT WITH ME
+## 🎯 07 — CURRENT OBJECTIVES
+
+```text
+[01]  Master Web Development
+[02]  Improve Python Skills
+[03]  Explore Cybersecurity
+[04]  Learn Linux & Networking
+[05]  Build Real-World Projects
+[06]  Never Stop Improving
+```
+
+---
+
+## 📡 08 — CONNECT WITH ME
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/aminoxaminox444-art)
+<a href="https://github.com/aminoxaminox444-art">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF3333" />
+</a>
 
-[![GitLab](https://img.shields.io/badge/GitLab-My%20Workspace-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/amine-dev2)
+</div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B3D,100:5427A8&height=120&section=footer" width="100%" />
+<div align="center">
 
-**BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B0000,100:000000&section=footer" width="100%" />
 
-<sub>© 2026 AMINE BORZ • DEVELOPER IN PROGRESS</sub>
+### `SHINOBI SYSTEM — END OF TRANSMISSION`
+
+<sub>Code in silence. Build in darkness. Evolve without limits.</sub>
 
 </div>
