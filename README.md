@@ -1,185 +1,115 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:300000,100:8B0000&text=BORZ&fontColor=FF1A1A&fontSize=70&fontAlignY=38&desc=DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20DIGITAL%20CREATOR&descAlignY=60&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+BORZ+UNIVERSE;DIGITAL+DEVELOPMENT+STUDENT;WEB+DEVELOPER+IN+PROGRESS;CYBERSECURITY+ENTHUSIAST"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="180"/>
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · aminoxaminox444-art</sub></p>
+<h1>Borz</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Développement Digital Student | Junior Developer 
+ Web Development • Python • PHP • Git 
+ Building projects. Learning every day.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Morocco</sub></p>
+<p><a href="https://github.com/aminoxaminox444-art">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/223003113?u=5de214e4aeec9ad9d648747890342caa0a4c468f&amp;v=4" width="180" alt="Borz GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 🩸 01 — ABOUT THE DEVELOPER
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>43 contributions · 9 active days</p></td>
+</tr>
+</table>
 
-<div align="center">
+<p><sub>Développement Digital Student | Junior Developer 
+ Web Development • Python • PHP • Git 
+ Building projects. Learning every day.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050505,50:300000,100:8B0000&text=AMINE%20BORZ&fontColor=FF3333&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%"/>
+<h2>Proof at a glance</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=THE+MIND+BEHIND+BORZ;DIGITAL+DEVELOPER;CYBERSECURITY+ENTHUSIAST"/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>43</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-</div>
-
-### 🥀 WHO AM I?
-
-I'm **Amine Borz**, a Digital Development student from Morocco 🇲🇦.
-
-I enjoy building websites, exploring programming, and discovering the world of cybersecurity.
-
-### ⚡ MY WORLD
-
-- 💻 Web Development
-- 🐍 Python Programming
-- 🔐 Cybersecurity & Ethical Hacking
-- 🐧 Linux & Command Line
-- 🚀 Building creative projects
-
-### 🧠 MY MINDSET
-
-> "Think different. Code smarter. Never stop evolving."
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDENTITY-BORZ-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
-<img src="https://img.shields.io/badge/COUNTRY-MOROCCO-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
-<img src="https://img.shields.io/badge/STATUS-LEVELING_UP-000000?style=for-the-badge&labelColor=300000&color=FF3333"/>
-
-</div>
-
----
-
-## ⚔️ 02 — TECH UNIVERSE
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=python,php,mysql&theme=dark"/>
-
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark"/>
-
-</div>
-
----
-
-## 🚀 03 — PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=amine-borz-portfolio&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333"/>
-</a>
-
-<a href="https://github.com/aminoxaminox444-art/car-rental">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminoxaminox444-art&repo=car-rental&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333"/>
-</a>
-
-</div>
-
----
-
-## 📊 04 — GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aminoxaminox444-art&show_icons=true&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=000000" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoxaminox444-art&layout=compact&theme=dark&hide_border=true&title_color=FF3333&text_color=FFFFFF&bg_color=000000" width="40%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aminoxaminox444-art&theme=dark&hide_border=true&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&background=000000" width="75%"/>
-
-</div>
-
----
-
-## 📈 05 — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminoxaminox444-art&bg_color=000000&color=FF3333&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 06 — CONTRIBUTION SNAKE
-
-<div align="center">
-
+<p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake.svg"/>
-<img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/aminoxaminox444-art/aminoxaminox444-art/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Borz GitHub proof metrics" />
 </picture>
+</p>
 
-</div>
+<h2>Selected work</h2>
 
----
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&repos=aminoxaminox444-art%2Ftest-git%2Caminoxaminox444-art%2Famine-borz-portfolio%2Caminoxaminox444-art%2Faminoxaminox444-art%2Caminoxaminox444-art%2Fcar-rental&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&repos=aminoxaminox444-art%2Ftest-git%2Caminoxaminox444-art%2Famine-borz-portfolio%2Caminoxaminox444-art%2Faminoxaminox444-art%2Caminoxaminox444-art%2Fcar-rental&v=recruiter-projects-1&mode=dark" width="100%" alt="Borz selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/aminoxaminox444-art/test-git">test-git</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/aminoxaminox444-art/test-git">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-## 🎯 07 — CURRENT OBJECTIVES
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/aminoxaminox444-art/amine-borz-portfolio">amine-borz-portfolio</a></h3><p>My personal developer portfolio</p><p><sub>HTML · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/aminoxaminox444-art/aminoxaminox444-art">aminoxaminox444-art</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/aminoxaminox444-art/car-rental">car-rental</a></h3><p>Car Rental Project</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<div align="center">
+<h2>Technical toolkit</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=MASTER+WEB+DEVELOPMENT;LEARN+PYTHON;EXPLORE+CYBERSECURITY;BUILD+REAL+PROJECTS;NEVER+STOP+LEARNING"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Borz technology stack" />
+</picture>
+</p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>HTML</strong><br /><sub>100% of public code</sub></td>
+</tr>
+</table>
 
-- [ ] Improve HTML, CSS and JavaScript.
-- [ ] Develop advanced Python skills.
-- [ ] Learn more about Linux and Bash.
-- [ ] Explore ethical hacking and cybersecurity.
-- [ ] Build professional web applications.
-- [ ] Create my own digital projects.
+<h2>Consistency signal</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aminoxaminox444-art&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223003113%3Fu%3D5de214e4aeec9ad9d648747890342caa0a4c468f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Borz contribution activity" />
+</picture>
+</p>
 
-## 🌐 08 — CONNECT TO THE BORZ NETWORK
+<hr />
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/aminoxaminox444-art">GitHub</a></td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:300000,50:FF0000,100:300000" width="85%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=ENTER+THE+BORZ+NETWORK;CONNECTION+ESTABLISHED;READY+TO+COLLABORATE"/>
-
-<br/><br/>
-
-<a href="https://github.com/aminoxaminox444-art">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORLD-000000?style=for-the-badge&logo=github&logoColor=FF3333&labelColor=300000"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:080808,50:300000,100:080808&text=AMINE%20BORZ&fontColor=FF3333&fontSize=35&fontAlignY=55&animation=fadeIn" width="80%"/>
-
-<br/>
-
-**[ SYSTEM STATUS: ONLINE ]**
-
-`DEVELOPER` • `CREATOR` • `FUTURE BUILDER`
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-300000?style=flat-square&logo=probot&logoColor=FF3333&labelColor=000000"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:300000,50:FF0000,100:300000" width="85%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:8B0000,50:300000,100:000000&section=footer&text=BORZ&fontColor=FF3333&fontSize=45&animation=fadeIn"/>
-
-<sub>© 2026 AMINE BORZ — BUILT WITH PASSION AND CODE.</sub>
-
-</div>
+<p align="center"><sub>Borz · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
